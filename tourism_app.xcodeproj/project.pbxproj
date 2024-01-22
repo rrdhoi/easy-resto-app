@@ -40,6 +40,7 @@
 		6A56645F2AEBC60B0044D667 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		6A7C04432AEA72F60041B248 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		6A7C04452AEA73DE0041B248 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		6AFEE0A52B5E163500EE4994 /* Script.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = Script.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		6A1AEDDB2AEA041D00713274 = {
 			isa = PBXGroup;
 			children = (
+				6AFEE0A52B5E163500EE4994 /* Script.sh */,
 				6A1AEDE62AEA041D00713274 /* tourism_app */,
 				6A1AEDE52AEA041D00713274 /* Products */,
 			);
